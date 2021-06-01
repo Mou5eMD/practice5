@@ -20,7 +20,7 @@
         </activity>
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="ru.mirea.monakhova.camera.fileprovider"
+            android:authorities="ru.mirea.mikhailpiskunov.camera.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
